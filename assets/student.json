@@ -1,0 +1,347 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "roll_num": "THA075BCT001",
+            "name": "Aarjan Ghimire",
+            "phone": "9869408676",
+            "email": "aarjanghimire.28@gmail.com"
+        },
+        {
+            "id": "2",
+            "roll_num": "THA075BCT002",
+            "name": "Aashish Chapain",
+            "phone": "9866767731",
+            "email": "aashishchapain@gmail.com"
+        },
+        {
+            "id": "3",
+            "roll_num": "THA075BCT003",
+            "name": "Aavash Silwal",
+            "phone": "9808670142",
+            "email": "aavashsilwal@gmail.com"
+        },
+        {
+            "id": "4",
+            "roll_num": "THA075BCT004",
+            "name": "Aayusha Bista",
+            "phone": "9860898009",
+            "email": "ayusha.bista11@gmail.com"
+        },
+        {
+            "id": "5",
+            "roll_num": "THA075BCT005",
+            "name": "Abiskar Timsina",
+            "phone": "9869666329",
+            "email": "abiskartimsina4@gmail.com"
+        },
+        {
+            "id": "6",
+            "roll_num": "THA075BCT006",
+            "name": "Aman Shrestha",
+            "phone": "9823576445",
+            "email": "amanshrestha147181@gmail.com"
+        },
+        {
+            "id": "7",
+            "roll_num": "THA075BCT007",
+            "name": "Anish Bhetuwal",
+            "phone": "9843809069",
+            "email": "anishbhetuwal@gmail.com"
+        },
+        {
+            "id": "8",
+            "roll_num": "THA075BCT008",
+            "name": "Anish Poudel",
+            "phone": "9861282176",
+            "email": "poudelanish17@gmail.com "
+        },
+        {
+            "id": "9",
+            "roll_num": "THA075BCT009",
+            "name": "Anish Sunar",
+            "phone": "9843625724",
+            "email": "anishsunar719@gmail.com"
+        },
+        {
+            "id": "10",
+            "roll_num": "THA075BCT010",
+            "name": "Anuj Sedhai",
+            "phone": "9860368879",
+            "email": "sedhai.anuj@gmail.com"
+        },
+        {
+            "id": "11",
+            "roll_num": "THA075BCT011",
+            "name": "Ashma Rai",
+            "phone": "9861376685",
+            "email": "ashmabantawa32@gmail.com"
+        },
+        {
+            "id": "12",
+            "roll_num": "THA075BCT012",
+            "name": "Ashmin Bhattarai",
+            "phone": "9860346518",
+            "email": "koushal.ashmin@gmail.com"
+        },
+        {
+            "id": "13",
+            "roll_num": "THA075BCT013",
+            "name": "Ashok Budha",
+            "phone": "9868225021",
+            "email": "ashok.budha2015@gmail.com"
+        },
+        {
+            "id": "14",
+            "roll_num": "THA075BCT014",
+            "name": "Basanta Bhandari",
+            "phone": "9867371031",
+            "email": "vhandaribasanta@gmail.com"
+        },
+        {
+            "id": "15",
+            "roll_num": "THA075BCT015",
+            "name": "Bibek Joshi",
+            "phone": "9861032859",
+            "email": "joshibibek5@gmail.com"
+        },
+        {
+            "id": "16",
+            "roll_num": "THA075BCT016",
+            "name": "Bibek Khanal",
+            "phone": "9860020333",
+            "email": "Bishal.khanal.2057@gmail.com"
+        },
+        {
+            "id": "17",
+            "roll_num": "THA075BCT017",
+            "name": "Biplov Karna",
+            "phone": "9861164158",
+            "email": "karnabipu@gmail.com "
+        },
+        {
+            "id": "18",
+            "roll_num": "THA075BCT018",
+            "name": "Deepak Bhattarai",
+            "phone": "9846872765",
+            "email": "deepakbhattarai878@gmail.com"
+        },
+        {
+            "id": "19",
+            "roll_num": "THA075BCT019",
+            "name": "Devraj Neupane",
+            "phone": "9840125393",
+            "email": "tha075bct019@tcioe.edu.np"
+        },
+        {
+            "id": "20",
+            "roll_num": "THA075BCT020",
+            "name": "Dinesh Ojha",
+            "phone": "9805781009",
+            "email": "dineshojha503@gmail.com"
+        },
+        {
+            "id": "21",
+            "roll_num": "THA075BCT021",
+            "name": "Dipin Mainali",
+            "phone": "9808572753",
+            "email": "nikeshmainali321@gmail.com"
+        },
+        {
+            "id": "22",
+            "roll_num": "THA075BCT022",
+            "name": "Kapil Shrestha",
+            "phone": "9841019357",
+            "email": "sht.kapil@gmail.com"
+        },
+        {
+            "id": "23",
+            "roll_num": "THA075BCT023",
+            "name": "Kumar Tiwari",
+            "phone": "9860933402",
+            "email": "asdfghjkl.kt@gmail.com"
+        },
+        {
+            "id": "24",
+            "roll_num": "THA075BCT024",
+            "name": "Madan kumar Sah",
+            "phone": "NULL",
+            "email": "NULL"
+        },
+        {
+            "id": "25",
+            "roll_num": "THA075BCT025",
+            "name": "Manish Khadka",
+            "phone": "9808044431",
+            "email": "mandy.khadka10@gmail.com"
+        },
+        {
+            "id": "26",
+            "roll_num": "THA075BCT026",
+            "name": "Manohar Dahal",
+            "phone": "9861322028",
+            "email": "manohardahal40@gmail.com"
+        },
+        {
+            "id": "27",
+            "roll_num": "THA075BCT027",
+            "name": "Mansoon Deep Khatri",
+            "phone": "NULL",
+            "email": "NULl"
+        },
+        {
+            "id": "28",
+            "roll_num": "THA075BCT028",
+            "name": "Manuj Babu Karki",
+            "phone": "9860285554",
+            "email": "manujkarki101@gmail.com"
+        },
+        {
+            "id": "29",
+            "roll_num": "THA075BCT029",
+            "name": "Niranjan Adhikari",
+            "phone": "9861679828",
+            "email": "nrnjnadkry99@gmail.com"
+        },
+        {
+            "id": "30",
+            "roll_num": "THA075BCT030",
+            "name": "Niruta Shrestha",
+            "phone": "9864835065",
+            "email": "neeru.laxnesh@gmail.com"
+        },
+        {
+            "id": "31",
+            "roll_num": "THA075BCT031",
+            "name": "Nischal Bhattarai",
+            "phone": "9861320402",
+            "email": "nischal.bhattarai010@gmail.com"
+        },
+        {
+            "id": "32",
+            "roll_num": "THA075BCT032",
+            "name": "Prasaya Acharya",
+            "phone": "9860688116",
+            "email": "prasaya.acharya@gmail.com"
+        },
+        {
+            "id": "33",
+            "roll_num": "THA075BCT033",
+            "name": "Prashant Bhusal",
+            "phone": "9863452963",
+            "email": "prasahantbhusal104@gmail.com"
+        },
+        {
+            "id": "34",
+            "roll_num": "THA075BCT034",
+            "name": "Rajan Neupane",
+            "phone": "9860589514",
+            "email": "npnrjn@gmail.com"
+        },
+        {
+            "id": "35",
+            "roll_num": "THA075BCT035",
+            "name": "Rupesh Shrestha",
+            "phone": "9808833196",
+            "email": "shrestharupesh02@gmail.com"
+        },
+        {
+            "id": "36",
+            "roll_num": "THA075BCT036",
+            "name": "Samip Jung Thapa",
+            "phone": "9840727471",
+            "email": "samipth2203@gmail.com"
+        },
+        {
+            "id": "37",
+            "roll_num": "THA075BCT037",
+            "name": "Samriddha Shrestha",
+            "phone": "9813692014",
+            "email": "samriddhashrestha.1@gmail.com"
+        },
+        {
+            "id": "38",
+            "roll_num": "THA075BCT038",
+            "name": "Sandesh Pokhrel",
+            "phone": "9847536829",
+            "email": "sandesh.pokhrel33@gmail.com"
+        },
+        {
+            "id": "39",
+            "roll_num": "THA075BCT039",
+            "name": "Sankalpa Rijal",
+            "phone": "9865555111",
+            "email": "tha075bct039@tcioe.edu.np"
+        },
+        {
+            "id": "40",
+            "roll_num": "THA075BCT040",
+            "name": "Saroj Prasad Mainali",
+            "phone": "9860731680",
+            "email": "sarojprasadmainali@gmail.com"
+        },
+        {
+            "id": "41",
+            "roll_num": "THA075BCT041",
+            "name": "Shikshya Shiwakoti",
+            "phone": "9841504897",
+            "email": "yshikshya@gmail.com"
+        },
+        {
+            "id": "42",
+            "roll_num": "THA075BCT042",
+            "name": "Shishir Kumar Regmi",
+            "phone": "9865366988",
+            "email": "shishirregmi65@gmail.com"
+        },
+        {
+            "id": "43",
+            "roll_num": "THA075BCT043",
+            "name": "Shubhechchha Marasini",
+            "phone": "9867373609",
+            "email": "suvekshyamarasini01@gmail.com"
+        },
+        {
+            "id": "44",
+            "roll_num": "THA075BCT044",
+            "name": "Sumit Shrestha",
+            "phone": "9843687712",
+            "email": "sumit.sth54@gmail.com"
+        },
+        {
+            "id": "45",
+            "roll_num": "THA075BCT045",
+            "name": "Suprim Shrestha",
+            "phone": "9861333297",
+            "email": "suprim.shresth@gmail.com"
+        },
+        {
+            "id": "46",
+            "roll_num": "THA075BCT046",
+            "name": "Suven Pandey",
+            "phone": "9863034181",
+            "email": "pandeysuven@gmail.com"
+        },
+        {
+            "id": "47",
+            "roll_num": "THA075BCT047",
+            "name": "Suyog Pandey",
+            "phone": "9860688400",
+            "email": "pandeysuyog2013@gmail.com"
+        },
+        {
+            "id": "48",
+            "roll_num": "THA075BCT048",
+            "name": "Swostika Basukala",
+            "phone": "9861763136",
+            "email": "swostikabasukala1@gmail.com"
+        },
+        {
+            "id": "49",
+            "roll_num": "THA075BCT049",
+            "name": "Dilip Babu Acharya",
+            "phone": "9840290724",
+            "email": "dilipbabuacharya2016@gmail.com"
+        }
+    ]
+}
