@@ -524,7 +524,25 @@ class _mainPageState extends State<mainPage> {
                 SizedBox(
                   height: 50,
                 ),
-                Text("lol"),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Text(
+                      "Developed By : ",
+                      style: TextStyle(color: Colors.blue),
+                    ),
+                    Container(
+                      child: FlatButton(
+                        onPressed: () => launch(
+                            "https://www.messenger.com/t/100011384264968"),
+                        child: Text(
+                          "VoidCU",
+                          style: TextStyle(color: Colors.blue),
+                        ),
+                      ),
+                    )
+                  ],
+                ),
               ],
             ),
           ),
